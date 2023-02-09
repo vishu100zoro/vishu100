@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vishu100/static/css/main.fa5bbd3d.css",
+    "main.js": "/vishu100/static/js/main.c4a9c8e2.js",
+    "static/media/dev.jpg": "/vishu100/static/media/dev.e7161e89a139881265e8.jpg",
+    "static/media/img1.jpg": "/vishu100/static/media/img1.eead3517454dbc9d20ff.jpg",
+    "static/media/web2.jpg": "/vishu100/static/media/web2.ffcbe912185042f14360.jpg",
+    "static/media/img2.png": "/vishu100/static/media/img2.ce63c73607cc79604ad9.png",
+    "static/media/web.jpg": "/vishu100/static/media/web.13a7db1cc5b882a1840a.jpg",
+    "index.html": "/vishu100/index.html",
+    "main.fa5bbd3d.css.map": "/vishu100/static/css/main.fa5bbd3d.css.map",
+    "main.c4a9c8e2.js.map": "/vishu100/static/js/main.c4a9c8e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5bbd3d.css",
+    "static/js/main.c4a9c8e2.js"
+  ]
+}
